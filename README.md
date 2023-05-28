@@ -5,9 +5,9 @@
 
 ## Sobre mi
 
-- Desarrollador Full-stack
+Como desarrollador Full-stack, soy una persona responsable y altamente adaptable a entornos cambiantes. Tengo un fuerte deseo de aprender y una determinación constante para mejorar, siempre buscando ofrecer el máximo valor en cada proyecto en el que participo.
+Las principales tecnologias que manejo son:
 -  JavaScript, ReactJs, HTML 5, CSS 3, Bootstrap, NodeJs, MongoDB, ExpressJs, Handlebars, Prestashop.
-- [Portafolio.]
 -<h3 align="left">Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-jesús-llamas-moreno-635813271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanjellamas" height="20" width="25" /></a>
